@@ -4,8 +4,8 @@ stuzo
 StuzoProject
 ~~Mistaken text.~~
 
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+```php
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
 ```
