@@ -3,6 +3,5 @@ stuzo
 
 StuzoProject
 ~~Mistaken text.~~
-
-@dd
+uiuiu_uiuiui_
 
