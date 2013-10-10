@@ -1,7 +1,6 @@
 stuzo
 =====
-11111111111
-StuzoProject
+uzoProject
 ~~Mistaken text.~~
 uiuiu_uiuiui_
 
